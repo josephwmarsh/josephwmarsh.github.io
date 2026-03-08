@@ -1,7 +1,7 @@
 ---
 title: Quadrature Encoder Design & Control
 description: Mechatronic implementation of a 2-channel encoder with custom signal processing for DC motor control.
-image: assets/images/pic04.jpg
+image: assets/images/Quadrature_Encoder.jpg
 layout: page
 ---
 
