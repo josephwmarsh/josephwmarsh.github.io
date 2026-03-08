@@ -1,7 +1,7 @@
 ---
 title: Quick-Disconnect PC Fan Housing
 description: Hardware design and DFM for a tool-less, magnetic pogo-pin PC fan assembly.
-image: assets/images/pic02.jpg
+image: assets/images/Fan_Case.jpg
 layout: page
 ---
 
