@@ -11,4 +11,6 @@ show_tile: false
 
 I am a Mechanical Engineering student at Oregon State University with a focus in physical design, thermal systems, and data-driven problem solving. 
 
-Feel free to explore my technical projects below, or connect with me on LinkedIn to discuss upcoming mechanical engineering opportunities!
+Core Competencies: Mechanical Design (Siemens NX & ANSYS), Thermal Systems, Numerical Programming (MATLAB & Python), and Systems Decision Analysis
+
+Feel free to explore my technical projects above, or connect with me on LinkedIn to discuss upcoming mechanical engineering opportunities!
