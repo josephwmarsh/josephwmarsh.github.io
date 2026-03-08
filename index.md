@@ -7,7 +7,7 @@ image: null
 author: null
 show_tile: false
 ---
-<span class="image left" style="max-width: 175px;"><img src="assets/images/Joseph_Marsh_Headshot.jpg" alt="Joseph Marsh" /></span>
+<span class="image left" style="max-width: 200px;"><img src="assets/images/Joseph_Marsh_Headshot.jpg" alt="Joseph Marsh" /></span>
 
 I am a Mechanical Engineering Master's student at Oregon State University with a focus in physical design, thermal systems, and data-driven problem solving. 
 
