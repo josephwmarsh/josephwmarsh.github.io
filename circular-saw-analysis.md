@@ -1,7 +1,7 @@
 ---
 title: Circular Saw Failure Analysis
 description: Mechanical design audit, FMEA, and shaft optimization for a 7-1/4" circular saw.
-image: assets/images/pic01.jpg
+image: assets/images/Circular_Saw.jpg
 layout: page
 ---
 
