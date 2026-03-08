@@ -1,7 +1,7 @@
 ---
 title: Booster Rocket Trade Study
 description: Comparative decision analysis of solid vs. liquid propulsion systems using multi-attribute utility theory.
-image: assets/images/pic01.jpg
+image: assets/images/Booster_Rocket.jpg
 layout: page
 ---
 
