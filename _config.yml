@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Joseph Marsh
+subtitle: Mechanical Engineer
+email: josephwmarsh@gmail.com
+description: Mechanical Engineering student at Oregon State University.<br /> Portfolio showcasing thermal systems, design, and data-driven analysis.
+baseurl: "" # Keep this blank so the styling works on your main github.io page
+url: "https://josephwmarsh.github.io" # Your actual website link
+author: Joseph Marsh
+street_address: 
+city: Corvallis
+state: OR
+zip_code: 97330
+country: United States
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/josephwmarsh
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/joseph-w-marsh
+  Twitter: 
   Facebook:
   Slack:
 
@@ -41,4 +41,4 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
