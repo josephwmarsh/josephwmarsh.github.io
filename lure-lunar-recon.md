@@ -1,7 +1,7 @@
 ---
 title: Lunar Underground Reconnaissance Expedition (LURE)
 description: Design of a robotic deployment system for characterizing lunar lava tubes for future habitation.
-image: assets/images/pic06.jpg
+image: assets/images/Lunar_Orbiter.jpg
 layout: page
 ---
 
