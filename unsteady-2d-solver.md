@@ -1,7 +1,7 @@
 ---
 title: Unsteady 2D Convection-Diffusion Solver
 description: Custom CFD numerical solver developed to simulate transient heat and mass transfer.
-image: assets/images/pic05.jpg
+image: assets/images/Convection_Diffusion.jpg
 layout: page
 ---
 
